@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/DanilaMarkin/DanilaMarkin/master/assets/baner.png"/>
+<img src="https://raw.githubusercontent.com/DanilaMarkin/DanilaMarkin/master/assets/banner.png"/>
