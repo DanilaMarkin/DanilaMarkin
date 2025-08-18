@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/DanilaMarkin/DanilaMarkin/refs/heads/master/assets/banner-1000x400.png" width="100%">
 
-<img src="https://avatars.mds.yandex.net/i?id=ff523e346255ca7ecb3d00d7f76c94e60059d1c1-16330772-images-thumbs&n=13">
+<img src="https://media1.tenor.com/m/JIR_32kNUi0AAAAd/saitama-one-punch-man.gif">
+
 
 # 👋 Hi, I'm Danila Markin
 
